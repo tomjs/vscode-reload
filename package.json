@@ -1,9 +1,9 @@
 {
-  "name": "reload",
+  "name": "vscode-reload",
   "displayName": "%displayName%",
   "description": "%description%",
   "publisher": "tomjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "keywords": [
     "reload",
