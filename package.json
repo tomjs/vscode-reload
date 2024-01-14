@@ -23,7 +23,40 @@
   "activationEvents": [
     "onStartupFinished"
   ],
-  "contributes": {},
+  "contributes": {
+    "configuration": {
+      "type": "object",
+      "title": "VSCode Reload Window",
+      "properties": {
+        "tomjs.reload.position": {
+          "order": 1,
+          "description": "The position of the reload button in the status bar",
+          "type": "string",
+          "enum": [
+            "left",
+            "right"
+          ],
+          "enumDescriptions": [
+            "Show on the left bottom",
+            "Show on the right bottom"
+          ],
+          "default": "right"
+        },
+        "tomjs.reload.text": {
+          "order": 2,
+          "description": "The text of the reload button",
+          "type": "string",
+          "default": "Reload"
+        },
+        "tomjs.reload.tooltip": {
+          "order": 3,
+          "description": "The tooltip of the reload button",
+          "type": "string",
+          "default": "Reload Window"
+        }
+      }
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tomjs/vscode-reload.git"
