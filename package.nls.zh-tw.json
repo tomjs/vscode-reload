@@ -1,0 +1,11 @@
+{
+  "displayName": "重載視窗",
+  "description": "在狀態列中新增一個重載視窗按鈕",
+  "tomjs.reload.position": "狀態列中重載按鈕的位置",
+  "tomjs.reload.position.left": "顯示在左下角",
+  "tomjs.reload.position.right": "顯示在右下角",
+  "tomjs.reload.text": "重新載入按鈕的文字",
+  "tomjs.reload.text.value": "重載",
+  "tomjs.reload.tooltip": "重新載入按鈕的提示",
+  "tomjs.reload.tooltip.value": "重載視窗"
+}

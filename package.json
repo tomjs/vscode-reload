@@ -1,5 +1,5 @@
 {
-  "name": "vscode-reload",
+  "name": "reload",
   "displayName": "%displayName%",
   "description": "%description%",
   "publisher": "tomjs",
@@ -7,6 +7,7 @@
   "license": "MIT",
   "keywords": [
     "reload",
+    "restart",
     "window",
     "statusbar",
     "重载",
