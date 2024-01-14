@@ -1,0 +1,11 @@
+{
+  "displayName": "Reload Window",
+  "description": "Add a reload window button to the status bar",
+  "tomjs.reload.position": "The position of the reload button in the status bar",
+  "tomjs.reload.position.left": "Show on the left bottom",
+  "tomjs.reload.position.right": "Show on the right bottom",
+  "tomjs.reload.text": "The text of the reload button",
+  "tomjs.reload.text.value": "Reload",
+  "tomjs.reload.tooltip": "The tooltip of the reload button",
+  "tomjs.reload.tooltip.value": "Reload Window"
+}
