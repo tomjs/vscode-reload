@@ -1,7 +1,7 @@
 {
   "name": "reload",
-  "displayName": "Reload Window",
-  "description": "Add a reload window button to the status bar",
+  "displayName": "%displayName%",
+  "description": "%description%",
   "publisher": "tomjs",
   "version": "0.0.0",
   "license": "MIT",
@@ -30,29 +30,29 @@
       "properties": {
         "tomjs.reload.position": {
           "order": 1,
-          "description": "The position of the reload button in the status bar",
+          "description": "%tomjs.reload.position%",
           "type": "string",
           "enum": [
             "left",
             "right"
           ],
           "enumDescriptions": [
-            "Show on the left bottom",
-            "Show on the right bottom"
+            "%tomjs.reload.position.left%",
+            "%tomjs.reload.position.right%"
           ],
           "default": "right"
         },
         "tomjs.reload.text": {
           "order": 2,
-          "description": "The text of the reload button",
+          "description": "%tomjs.reload.text%",
           "type": "string",
-          "default": "Reload"
+          "default": "%tomjs.reload.text.value%"
         },
         "tomjs.reload.tooltip": {
           "order": 3,
-          "description": "The tooltip of the reload button",
+          "description": "%tomjs.reload.tooltip%",
           "type": "string",
-          "default": "Reload Window"
+          "default": "%tomjs.reload.tooltip.value%"
         }
       }
     }
