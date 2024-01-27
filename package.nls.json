@@ -1,6 +1,6 @@
 {
   "displayName": "Reload Window",
-  "description": "Add a reload window button to the status bar",
+  "description": "Add a configurable reload window button to the left/right side of the status bar.",
   "tomjs.reload.position": "The position of the reload button in the status bar",
   "tomjs.reload.position.left": "Show on the left bottom",
   "tomjs.reload.position.right": "Show on the right bottom",

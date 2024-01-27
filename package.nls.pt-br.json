@@ -1,0 +1,11 @@
+{
+  "displayName": "Recarregar janela",
+  "description": "Adicionar um botão de janela de recarga configurável ao lado esquerdo/direito da barra de status",
+  "tomjs.reload.position": "A posição do botão recarregar na barra de status",
+  "tomjs.reload.position.left": "Exibido no canto inferior esquerdo da barra de status",
+  "tomjs.reload.position.right": "Exibido no canto inferior direito da barra de status",
+  "tomjs.reload.text": "Texto do botão recarregar",
+  "tomjs.reload.text.value": "Recarregar",
+  "tomjs.reload.tooltip": "Dica para botão recarregar",
+  "tomjs.reload.tooltip.value": "Recarregar janela"
+}

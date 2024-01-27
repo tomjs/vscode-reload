@@ -1,0 +1,11 @@
+{
+  "displayName": "Recargar ventana",
+  "description": "Agrega un botón de ventana de recarga configurable al lado izquierdo/derecho de la barra de estado",
+  "tomjs.reload.position": "La posición del botón de recarga en la barra de estado",
+  "tomjs.reload.position.left": "Se muestra en la esquina inferior izquierda de la barra de estado",
+  "tomjs.reload.position.right": "Se muestra en la esquina inferior derecha de la barra de estado",
+  "tomjs.reload.text": "Texto del botón de recarga",
+  "tomjs.reload.text.value": "Recargar",
+  "tomjs.reload.tooltip": "Consejo para el botón de recarga",
+  "tomjs.reload.tooltip.value": "Recargar ventana"
+}

@@ -1,9 +1,9 @@
 {
   "displayName": "重载窗口",
-  "description": "在状态栏添加一个重载窗口按钮",
+  "description": "在状态栏左侧/右侧添加一个可配置的重载窗口按钮",
   "tomjs.reload.position": "状态栏中重载按钮的位置",
-  "tomjs.reload.position.left": "显示在左下角",
-  "tomjs.reload.position.right": "显示在右下角",
+  "tomjs.reload.position.left": "显示在状态栏左下角",
+  "tomjs.reload.position.right": "显示在状态栏右下角",
   "tomjs.reload.text": "重新加载按钮的文本",
   "tomjs.reload.text.value": "重载",
   "tomjs.reload.tooltip": "重新加载按钮的提示",

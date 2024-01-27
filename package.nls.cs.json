@@ -1,0 +1,11 @@
+{
+  "displayName": "Znovu načíst okno",
+  "description": "Přidat konfigurovatelné tlačítko pro opětovné načtení okna na levou/pravou stranu stavového řádku",
+  "tomjs.reload.position": "Poloha tlačítka pro opětovné načtení ve stavovém řádku",
+  "tomjs.reload.position.left": "Zobrazeno v levém dolním rohu stavového řádku",
+  "tomjs.reload.position.right": "Zobrazeno v pravém dolním rohu stavového řádku",
+  "tomjs.reload.text": "Text tlačítka pro opětovné načtení",
+  "tomjs.reload.text.value": "Znovu načíst",
+  "tomjs.reload.tooltip": "Tip pro tlačítko pro opětovné načtení",
+  "tomjs.reload.tooltip.value": "Znovu načíst okno"
+}

@@ -11,7 +11,9 @@
     "window",
     "statusbar",
     "重载",
-    "重启"
+    "重启",
+    "重載",
+    "重啟"
   ],
   "engines": {
     "node": ">=14",
@@ -27,7 +29,7 @@
   "contributes": {
     "configuration": {
       "type": "object",
-      "title": "VSCode Reload Window",
+      "title": "%displayName%",
       "properties": {
         "tomjs.reload.position": {
           "order": 1,

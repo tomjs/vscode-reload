@@ -1,0 +1,11 @@
+{
+  "displayName": "Recharger la fenêtre",
+  "description": "Ajouter un bouton de fenêtre de rechargement configurable sur le côté gauche/droit de la barre d'état",
+  "tomjs.reload.position": "La position du bouton de rechargement dans la barre d'état",
+  "tomjs.reload.position.left": "Affiché dans le coin inférieur gauche de la barre d'état",
+  "tomjs.reload.position.right": "Affiché dans le coin inférieur droit de la barre d'état",
+  "tomjs.reload.text": "Texte du bouton de rechargement",
+  "tomjs.reload.text.value": "Recharger",
+  "tomjs.reload.tooltip": "Astuce pour le bouton de rechargement",
+  "tomjs.reload.tooltip.value": "Recharger la fenêtre"
+}

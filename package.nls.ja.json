@@ -1,0 +1,11 @@
+{
+  "displayName": "ウィンドウをリロード",
+  "description": "設定可能なリロード ウィンドウ ボタンをステータス バーの左側/右側に追加します",
+  "tomjs.reload.position": "ステータスバーのリロードボタンの位置",
+  "tomjs.reload.position.left": "ステータスバーの左下隅に表示されます",
+  "tomjs.reload.position.right": "ステータスバーの右下隅に表示されます",
+  "tomjs.reload.text": "リロード ボタンのテキスト",
+  "tomjs.reload.text.value": "リロード",
+  "tomjs.reload.tooltip": "リロード ボタンのヒント",
+  "tomjs.reload.tooltip.value": "ウィンドウをリロード"
+}

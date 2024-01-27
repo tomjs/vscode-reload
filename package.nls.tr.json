@@ -1,0 +1,11 @@
+{
+  "displayName": "Pencereyi Yeniden Yükle",
+  "description": "Durum çubuğunun sol/sağ tarafına yapılandırılabilir bir yeniden yükleme penceresi düğmesi ekleyin",
+  "tomjs.reload.position": "Yeniden yükle düğmesinin durum çubuğundaki konumu",
+  "tomjs.reload.position.left": "Durum çubuğunun sol alt köşesinde görüntülenir",
+  "tomjs.reload.position.right": "Durum çubuğunun sağ alt köşesinde görüntülenir",
+  "tomjs.reload.text": "Yeniden yükle düğmesinin metni",
+  "tomjs.reload.text.value": "Yeniden yükle",
+  "tomjs.reload.tooltip": "Yeniden yükleme düğmesi için ipucu",
+  "tomjs.reload.tooltip.value": "Pencereyi yeniden yükle"
+}

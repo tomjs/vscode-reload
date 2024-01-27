@@ -1,0 +1,11 @@
+{
+  "displayName": "Ablak újratöltése",
+  "description": "Adjon hozzá egy konfigurálható újratöltési ablak gombot az állapotsor bal/jobb oldalához",
+  "tomjs.reload.position": "Az újratöltés gomb helyzete az állapotsorban",
+  "tomjs.reload.position.left": "Az állapotsor bal alsó sarkában jelenik meg",
+  "tomjs.reload.position.right": "Az állapotsor jobb alsó sarkában jelenik meg",
+  "tomjs.reload.text": "Az újratöltés gomb szövege",
+  "tomjs.reload.text.value": "Újratöltés",
+  "tomjs.reload.tooltip": "Tipp az újratöltés gombhoz",
+  "tomjs.reload.tooltip.value": "Ablak újratöltése"
+}

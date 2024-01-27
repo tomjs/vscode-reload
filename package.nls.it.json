@@ -1,0 +1,11 @@
+{
+  "displayName": "Ricarica finestra",
+  "description": "Aggiungi un pulsante configurabile della finestra di ricarica sul lato sinistro/destro della barra di stato",
+  "tomjs.reload.position": "La posizione del pulsante di ricarica nella barra di stato",
+  "tomjs.reload.position.left": "Visualizzato nell'angolo inferiore sinistro della barra di stato",
+  "tomjs.reload.position.right": "Visualizzato nell'angolo in basso a destra della barra di stato",
+  "tomjs.reload.text": "Testo del pulsante di ricarica",
+  "tomjs.reload.text.value": "Ricarica",
+  "tomjs.reload.tooltip": "Suggerimento per il pulsante di ricarica",
+  "tomjs.reload.tooltip.value": "Finestra di ricarica"
+}
