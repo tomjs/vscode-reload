@@ -1,3 +1,7 @@
+## [0.2.0](https://github.com/tomjs/vscode-reload/compare/v0.1.0...v0.2.0) - 2024-06-29
+
+- add screenshots for readme
+
 ## [0.1.0](https://github.com/tomjs/vscode-reload/compare/v0.0.3...v0.1.0) - 2024-06-29
 
 - change logo color
