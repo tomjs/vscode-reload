@@ -58,3 +58,7 @@ tsconfig.tsbuildinfo
 build
 dist
 release
+
+package.nls.json
+package.nls.*.json
+src/vscode.d.ts
