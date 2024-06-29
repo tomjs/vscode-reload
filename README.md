@@ -8,7 +8,7 @@
 
 Front-end projects may need to restart vscode after installing npm dependencies or compiling code. I used to use commands, but then I found this [Reload](https://marketplace.visualstudio.com/items?itemName=natqe.reload) extension to help me simplify it. operate. Many thanks to [natqe](https://github.com/natqe)’s [reload](https://github.com/natqe/reload) for giving me inspiration.
 
-## 截屏 Screenshots
+## 截图 Screenshots
 
 - 左 left
 
