@@ -54,6 +54,7 @@ tsconfig.tsbuildinfo
 
 # project
 src
+locales
 
 .husky
 .commitlintrc*

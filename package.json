@@ -68,7 +68,7 @@
     "url": "git+https://github.com/tomjs/vscode-reload/issues"
   },
   "homepage": "https://github.com/tomjs/vscode-reload/blob/main/README.md",
-  "icon": "images/icon.png",
+  "icon": "resources/logo.png",
   "vsce": {
     "dependencies": false,
     "yarn": false
@@ -81,6 +81,7 @@
     "lint": "run-s lint:eslint lint:prettier",
     "lint:eslint": "eslint \"{src,scripts}/**/*.{js,cjs,ts}\" *.{js,cjs,ts} --fix --cache",
     "lint:prettier": "prettier --write .",
+    "release": "pnpm build && vsce pack",
     "prepare": "husky install"
   },
   "devDependencies": {
@@ -92,6 +93,7 @@
     "@tomjs/vscode-dev": "^3.0.2",
     "@types/node": "^18.19.6",
     "@types/vscode": "^1.56.0",
+    "@vscode/vsce": "^2.29.0",
     "eslint": "^8.56.0",
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0",
