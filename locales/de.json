@@ -1,11 +1,11 @@
 {
   "displayName": "Fenster neu laden",
-  "description": "Fügen Sie eine konfigurierbare Schaltfläche zum Neuladen des Fensters auf der linken/rechten Seite der Statusleiste hinzu",
-  "tomjs.reload.position": "Die Position des Neuladen-Buttons in der Statusleiste",
-  "tomjs.reload.position.left": "Wird in der unteren linken Ecke der Statusleiste angezeigt",
-  "tomjs.reload.position.right": "Wird in der unteren rechten Ecke der Statusleiste angezeigt",
-  "tomjs.reload.text": "Text des Neuladen-Buttons",
+  "description": "Fügt der Statusleiste links/rechts eine konfigurierbare Schaltfläche zum Neuladen des Fensters hinzu",
+  "tomjs.reload.position": "Position der Neuladen-Schaltfläche in der Statusleiste",
+  "tomjs.reload.position.left": "Wird unten links in der Statusleiste angezeigt",
+  "tomjs.reload.position.right": "Wird unten rechts in der Statusleiste angezeigt",
+  "tomjs.reload.text": "Text der Neuladen-Schaltfläche",
   "tomjs.reload.text.value": "Neu laden",
-  "tomjs.reload.tooltip": "Tipp für die Schaltfläche zum Neuladen",
+  "tomjs.reload.tooltip": "QuickInfo der Neuladen-Schaltfläche",
   "tomjs.reload.tooltip.value": "Fenster neu laden"
 }

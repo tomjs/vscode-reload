@@ -1,11 +1,11 @@
 {
   "displayName": "Odśwież okno",
-  "description": "Dodaj konfigurowalny przycisk okna przeładowania po lewej/prawej stronie paska stanu",
-  "tomjs.reload.position": "Pozycja przycisku przeładowania na pasku stanu",
-  "tomjs.reload.position.left": "Wyświetlane w lewym dolnym rogu paska stanu",
-  "tomjs.reload.position.right": "Wyświetlane w prawym dolnym rogu paska stanu",
-  "tomjs.reload.text": "Tekst przycisku przeładowania",
-  "tomjs.reload.text.value": "Załaduj ponownie",
-  "tomjs.reload.tooltip": "Wskazówka dotycząca przycisku przeładowania",
-  "tomjs.reload.tooltip.value": "Załaduj ponownie okno"
+  "description": "Dodaj konfigurowalny przycisk odświeżania okna po lewej/prawej stronie paska stanu",
+  "tomjs.reload.position": "Pozycja przycisku odświeżania na pasku stanu",
+  "tomjs.reload.position.left": "Wyświetlany w lewym dolnym rogu paska stanu",
+  "tomjs.reload.position.right": "Wyświetlany w prawym dolnym rogu paska stanu",
+  "tomjs.reload.text": "Tekst przycisku odświeżania",
+  "tomjs.reload.text.value": "Odśwież",
+  "tomjs.reload.tooltip": "Wskazówka przycisku odświeżania",
+  "tomjs.reload.tooltip.value": "Odśwież okno"
 }
